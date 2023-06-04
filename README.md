@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=22&pause=1009&width=435&lines=Hi+Everyone%F0%9F%91%8BI%E2%80%99m+Mohammad+Zafari)](https://git.io/typing-svg)
+  
+🌱I’m currently learning Python | Django
+
 
 <!--
 **M80Z/M80Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
